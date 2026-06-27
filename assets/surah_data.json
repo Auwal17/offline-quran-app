@@ -1,0 +1,914 @@
+[
+  {
+    "id": 1,
+    "name_arabic": "الفاتحة",
+    "name_english": "The Opening",
+    "transliteration": "Al-Fatihah",
+    "revelation_type": "Meccan",
+    "duration_seconds": 45
+  },
+  {
+    "id": 2,
+    "name_arabic": "البقرة",
+    "name_english": "The Cow",
+    "transliteration": "Al-Baqarah",
+    "revelation_type": "Medinan",
+    "duration_seconds": 7200
+  },
+  {
+    "id": 3,
+    "name_arabic": "آل عمران",
+    "name_english": "Family of Imran",
+    "transliteration": "Ali 'Imran",
+    "revelation_type": "Medinan",
+    "duration_seconds": 5400
+  },
+  {
+    "id": 4,
+    "name_arabic": "النساء",
+    "name_english": "The Women",
+    "transliteration": "An-Nisa",
+    "revelation_type": "Medinan",
+    "duration_seconds": 4800
+  },
+  {
+    "id": 5,
+    "name_arabic": "المائدة",
+    "name_english": "The Table Spread",
+    "transliteration": "Al-Ma'idah",
+    "revelation_type": "Medinan",
+    "duration_seconds": 4200
+  },
+  {
+    "id": 6,
+    "name_arabic": "الأنعام",
+    "name_english": "The Cattle",
+    "transliteration": "Al-An'am",
+    "revelation_type": "Meccan",
+    "duration_seconds": 3900
+  },
+  {
+    "id": 7,
+    "name_arabic": "الأعراف",
+    "name_english": "The Heights",
+    "transliteration": "Al-A'raf",
+    "revelation_type": "Meccan",
+    "duration_seconds": 4500
+  },
+  {
+    "id": 8,
+    "name_arabic": "الأنفال",
+    "name_english": "The Spoils of War",
+    "transliteration": "Al-Anfal",
+    "revelation_type": "Medinan",
+    "duration_seconds": 2400
+  },
+  {
+    "id": 9,
+    "name_arabic": "التوبة",
+    "name_english": "The Repentance",
+    "transliteration": "At-Tawbah",
+    "revelation_type": "Medinan",
+    "duration_seconds": 3600
+  },
+  {
+    "id": 10,
+    "name_arabic": "يونس",
+    "name_english": "Jonah",
+    "transliteration": "Yunus",
+    "revelation_type": "Meccan",
+    "duration_seconds": 2700
+  },
+  {
+    "id": 11,
+    "name_arabic": "هود",
+    "name_english": "Hud",
+    "transliteration": "Hud",
+    "revelation_type": "Meccan",
+    "duration_seconds": 3000
+  },
+  {
+    "id": 12,
+    "name_arabic": "يوسف",
+    "name_english": "Joseph",
+    "transliteration": "Yusuf",
+    "revelation_type": "Meccan",
+    "duration_seconds": 2700
+  },
+  {
+    "id": 13,
+    "name_arabic": "الرعد",
+    "name_english": "The Thunder",
+    "transliteration": "Ar-Ra'd",
+    "revelation_type": "Medinan",
+    "duration_seconds": 1800
+  },
+  {
+    "id": 14,
+    "name_arabic": "إبراهيم",
+    "name_english": "Abraham",
+    "transliteration": "Ibrahim",
+    "revelation_type": "Meccan",
+    "duration_seconds": 1500
+  },
+  {
+    "id": 15,
+    "name_arabic": "الحجر",
+    "name_english": "The Rocky Tract",
+    "transliteration": "Al-Hijr",
+    "revelation_type": "Meccan",
+    "duration_seconds": 1400
+  },
+  {
+    "id": 16,
+    "name_arabic": "النحل",
+    "name_english": "The Bee",
+    "transliteration": "An-Nahl",
+    "revelation_type": "Meccan",
+    "duration_seconds": 3000
+  },
+  {
+    "id": 17,
+    "name_arabic": "الإسراء",
+    "name_english": "The Night Journey",
+    "transliteration": "Al-Isra",
+    "revelation_type": "Meccan",
+    "duration_seconds": 2800
+  },
+  {
+    "id": 18,
+    "name_arabic": "الكهف",
+    "name_english": "The Cave",
+    "transliteration": "Al-Kahf",
+    "revelation_type": "Meccan",
+    "duration_seconds": 2400
+  },
+  {
+    "id": 19,
+    "name_arabic": "مريم",
+    "name_english": "Mary",
+    "transliteration": "Maryam",
+    "revelation_type": "Meccan",
+    "duration_seconds": 2000
+  },
+  {
+    "id": 20,
+    "name_arabic": "طه",
+    "name_english": "Ta-Ha",
+    "transliteration": "Ta-Ha",
+    "revelation_type": "Meccan",
+    "duration_seconds": 2200
+  },
+  {
+    "id": 21,
+    "name_arabic": "الأنبياء",
+    "name_english": "The Prophets",
+    "transliteration": "Al-Anbiya",
+    "revelation_type": "Meccan",
+    "duration_seconds": 2100
+  },
+  {
+    "id": 22,
+    "name_arabic": "الحج",
+    "name_english": "The Pilgrimage",
+    "transliteration": "Al-Hajj",
+    "revelation_type": "Medinan",
+    "duration_seconds": 2300
+  },
+  {
+    "id": 23,
+    "name_arabic": "المؤمنون",
+    "name_english": "The Believers",
+    "transliteration": "Al-Mu'minun",
+    "revelation_type": "Meccan",
+    "duration_seconds": 1800
+  },
+  {
+    "id": 24,
+    "name_arabic": "النور",
+    "name_english": "The Light",
+    "transliteration": "An-Nur",
+    "revelation_type": "Medinan",
+    "duration_seconds": 1900
+  },
+  {
+    "id": 25,
+    "name_arabic": "الفرقان",
+    "name_english": "The Criterion",
+    "transliteration": "Al-Furqan",
+    "revelation_type": "Meccan",
+    "duration_seconds": 1700
+  },
+  {
+    "id": 26,
+    "name_arabic": "الشعراء",
+    "name_english": "The Poets",
+    "transliteration": "Ash-Shu'ara",
+    "revelation_type": "Meccan",
+    "duration_seconds": 2600
+  },
+  {
+    "id": 27,
+    "name_arabic": "النمل",
+    "name_english": "The Ant",
+    "transliteration": "An-Naml",
+    "revelation_type": "Meccan",
+    "duration_seconds": 2200
+  },
+  {
+    "id": 28,
+    "name_arabic": "القصص",
+    "name_english": "The Stories",
+    "transliteration": "Al-Qasas",
+    "revelation_type": "Meccan",
+    "duration_seconds": 2500
+  },
+  {
+    "id": 29,
+    "name_arabic": "العنكبوت",
+    "name_english": "The Spider",
+    "transliteration": "Al-'Ankabut",
+    "revelation_type": "Meccan",
+    "duration_seconds": 1600
+  },
+  {
+    "id": 30,
+    "name_arabic": "الروم",
+    "name_english": "The Romans",
+    "transliteration": "Ar-Rum",
+    "revelation_type": "Meccan",
+    "duration_seconds": 1800
+  },
+  {
+    "id": 31,
+    "name_arabic": "لقمان",
+    "name_english": "Luqman",
+    "transliteration": "Luqman",
+    "revelation_type": "Meccan",
+    "duration_seconds": 1200
+  },
+  {
+    "id": 32,
+    "name_arabic": "السجدة",
+    "name_english": "The Prostration",
+    "transliteration": "As-Sajdah",
+    "revelation_type": "Meccan",
+    "duration_seconds": 900
+  },
+  {
+    "id": 33,
+    "name_arabic": "الأحزاب",
+    "name_english": "The Combined Forces",
+    "transliteration": "Al-Ahzab",
+    "revelation_type": "Medinan",
+    "duration_seconds": 2100
+  },
+  {
+    "id": 34,
+    "name_arabic": "سبإ",
+    "name_english": "Sheba",
+    "transliteration": "Saba",
+    "revelation_type": "Meccan",
+    "duration_seconds": 1400
+  },
+  {
+    "id": 35,
+    "name_arabic": "فاطر",
+    "name_english": "Originator",
+    "transliteration": "Fatir",
+    "revelation_type": "Meccan",
+    "duration_seconds": 1300
+  },
+  {
+    "id": 36,
+    "name_arabic": "يس",
+    "name_english": "Ya-Sin",
+    "transliteration": "Ya-Sin",
+    "revelation_type": "Meccan",
+    "duration_seconds": 1600
+  },
+  {
+    "id": 37,
+    "name_arabic": "الصافات",
+    "name_english": "Those Who Set the Ranks",
+    "transliteration": "As-Saffat",
+    "revelation_type": "Meccan",
+    "duration_seconds": 1900
+  },
+  {
+    "id": 38,
+    "name_arabic": "ص",
+    "name_english": "The Letter Sad",
+    "transliteration": "Sad",
+    "revelation_type": "Meccan",
+    "duration_seconds": 1300
+  },
+  {
+    "id": 39,
+    "name_arabic": "الزمر",
+    "name_english": "The Groups",
+    "transliteration": "Az-Zumar",
+    "revelation_type": "Meccan",
+    "duration_seconds": 2000
+  },
+  {
+    "id": 40,
+    "name_arabic": "غافر",
+    "name_english": "The Forgiver",
+    "transliteration": "Ghafir",
+    "revelation_type": "Meccan",
+    "duration_seconds": 2200
+  },
+  {
+    "id": 41,
+    "name_arabic": "فصلت",
+    "name_english": "Explained in Detail",
+    "transliteration": "Fussilat",
+    "revelation_type": "Meccan",
+    "duration_seconds": 1500
+  },
+  {
+    "id": 42,
+    "name_arabic": "الشورى",
+    "name_english": "Consultation",
+    "transliteration": "Ash-Shura",
+    "revelation_type": "Meccan",
+    "duration_seconds": 1700
+  },
+  {
+    "id": 43,
+    "name_arabic": "الزخرف",
+    "name_english": "The Gold Adornments",
+    "transliteration": "Az-Zukhruf",
+    "revelation_type": "Meccan",
+    "duration_seconds": 1800
+  },
+  {
+    "id": 44,
+    "name_arabic": "الدخان",
+    "name_english": "The Smoke",
+    "transliteration": "Ad-Dukhan",
+    "revelation_type": "Meccan",
+    "duration_seconds": 1000
+  },
+  {
+    "id": 45,
+    "name_arabic": "الجاثية",
+    "name_english": "The Kneeling",
+    "transliteration": "Al-Jathiyah",
+    "revelation_type": "Meccan",
+    "duration_seconds": 900
+  },
+  {
+    "id": 46,
+    "name_arabic": "الأحقاف",
+    "name_english": "The Wind-Curved Sandhills",
+    "transliteration": "Al-Ahqaf",
+    "revelation_type": "Meccan",
+    "duration_seconds": 1100
+  },
+  {
+    "id": 47,
+    "name_arabic": "محمد",
+    "name_english": "Muhammad",
+    "transliteration": "Muhammad",
+    "revelation_type": "Medinan",
+    "duration_seconds": 950
+  },
+  {
+    "id": 48,
+    "name_arabic": "الفتح",
+    "name_english": "The Victory",
+    "transliteration": "Al-Fath",
+    "revelation_type": "Medinan",
+    "duration_seconds": 850
+  },
+  {
+    "id": 49,
+    "name_arabic": "الحجرات",
+    "name_english": "The Rooms",
+    "transliteration": "Al-Hujurat",
+    "revelation_type": "Medinan",
+    "duration_seconds": 700
+  },
+  {
+    "id": 50,
+    "name_arabic": "ق",
+    "name_english": "The Letter Qaf",
+    "transliteration": "Qaf",
+    "revelation_type": "Meccan",
+    "duration_seconds": 800
+  },
+  {
+    "id": 51,
+    "name_arabic": "الذاريات",
+    "name_english": "The Winnowing Winds",
+    "transliteration": "Adh-Dhariyat",
+    "revelation_type": "Meccan",
+    "duration_seconds": 900
+  },
+  {
+    "id": 52,
+    "name_arabic": "الطور",
+    "name_english": "The Mount",
+    "transliteration": "At-Tur",
+    "revelation_type": "Meccan",
+    "duration_seconds": 850
+  },
+  {
+    "id": 53,
+    "name_arabic": "النجم",
+    "name_english": "The Star",
+    "transliteration": "An-Najm",
+    "revelation_type": "Meccan",
+    "duration_seconds": 800
+  },
+  {
+    "id": 54,
+    "name_arabic": "القمر",
+    "name_english": "The Moon",
+    "transliteration": "Al-Qamar",
+    "revelation_type": "Meccan",
+    "duration_seconds": 820
+  },
+  {
+    "id": 55,
+    "name_arabic": "الرحمن",
+    "name_english": "The Most Merciful",
+    "transliteration": "Ar-Rahman",
+    "revelation_type": "Medinan",
+    "duration_seconds": 900
+  },
+  {
+    "id": 56,
+    "name_arabic": "الواقعة",
+    "name_english": "The Inevitable",
+    "transliteration": "Al-Waqi'ah",
+    "revelation_type": "Meccan",
+    "duration_seconds": 950
+  },
+  {
+    "id": 57,
+    "name_arabic": "الحديد",
+    "name_english": "The Iron",
+    "transliteration": "Al-Hadid",
+    "revelation_type": "Medinan",
+    "duration_seconds": 1000
+  },
+  {
+    "id": 58,
+    "name_arabic": "المجادلة",
+    "name_english": "The Pleading Woman",
+    "transliteration": "Al-Mujadila",
+    "revelation_type": "Medinan",
+    "duration_seconds": 800
+  },
+  {
+    "id": 59,
+    "name_arabic": "الحشر",
+    "name_english": "The Exile",
+    "transliteration": "Al-Hashr",
+    "revelation_type": "Medinan",
+    "duration_seconds": 780
+  },
+  {
+    "id": 60,
+    "name_arabic": "الممتحنة",
+    "name_english": "She That Is To Be Examined",
+    "transliteration": "Al-Mumtahanah",
+    "revelation_type": "Medinan",
+    "duration_seconds": 760
+  },
+  {
+    "id": 61,
+    "name_arabic": "الصف",
+    "name_english": "The Ranks",
+    "transliteration": "As-Saff",
+    "revelation_type": "Medinan",
+    "duration_seconds": 600
+  },
+  {
+    "id": 62,
+    "name_arabic": "الجمعة",
+    "name_english": "The Congregation",
+    "transliteration": "Al-Jumu'ah",
+    "revelation_type": "Medinan",
+    "duration_seconds": 550
+  },
+  {
+    "id": 63,
+    "name_arabic": "المنافقون",
+    "name_english": "The Hypocrites",
+    "transliteration": "Al-Munafiqun",
+    "revelation_type": "Medinan",
+    "duration_seconds": 520
+  },
+  {
+    "id": 64,
+    "name_arabic": "التغابن",
+    "name_english": "Mutual Disillusion",
+    "transliteration": "At-Taghabun",
+    "revelation_type": "Medinan",
+    "duration_seconds": 600
+  },
+  {
+    "id": 65,
+    "name_arabic": "الطلاق",
+    "name_english": "Divorce",
+    "transliteration": "At-Talaq",
+    "revelation_type": "Medinan",
+    "duration_seconds": 580
+  },
+  {
+    "id": 66,
+    "name_arabic": "التحريم",
+    "name_english": "The Prohibition",
+    "transliteration": "At-Tahrim",
+    "revelation_type": "Medinan",
+    "duration_seconds": 620
+  },
+  {
+    "id": 67,
+    "name_arabic": "الملك",
+    "name_english": "The Sovereignty",
+    "transliteration": "Al-Mulk",
+    "revelation_type": "Meccan",
+    "duration_seconds": 700
+  },
+  {
+    "id": 68,
+    "name_arabic": "القلم",
+    "name_english": "The Pen",
+    "transliteration": "Al-Qalam",
+    "revelation_type": "Meccan",
+    "duration_seconds": 650
+  },
+  {
+    "id": 69,
+    "name_arabic": "الحاقة",
+    "name_english": "The Reality",
+    "transliteration": "Al-Haqqah",
+    "revelation_type": "Meccan",
+    "duration_seconds": 700
+  },
+  {
+    "id": 70,
+    "name_arabic": "المعارج",
+    "name_english": "The Ascending Stairways",
+    "transliteration": "Al-Ma'arij",
+    "revelation_type": "Meccan",
+    "duration_seconds": 680
+  },
+  {
+    "id": 71,
+    "name_arabic": "نوح",
+    "name_english": "Noah",
+    "transliteration": "Nuh",
+    "revelation_type": "Meccan",
+    "duration_seconds": 600
+  },
+  {
+    "id": 72,
+    "name_arabic": "الجن",
+    "name_english": "The Jinn",
+    "transliteration": "Al-Jinn",
+    "revelation_type": "Meccan",
+    "duration_seconds": 650
+  },
+  {
+    "id": 73,
+    "name_arabic": "المزمل",
+    "name_english": "The Enshrouded One",
+    "transliteration": "Al-Muzzammil",
+    "revelation_type": "Meccan",
+    "duration_seconds": 500
+  },
+  {
+    "id": 74,
+    "name_arabic": "المدثر",
+    "name_english": "The Cloaked One",
+    "transliteration": "Al-Muddaththir",
+    "revelation_type": "Meccan",
+    "duration_seconds": 520
+  },
+  {
+    "id": 75,
+    "name_arabic": "القيامة",
+    "name_english": "The Resurrection",
+    "transliteration": "Al-Qiyamah",
+    "revelation_type": "Meccan",
+    "duration_seconds": 480
+  },
+  {
+    "id": 76,
+    "name_arabic": "الإنسان",
+    "name_english": "Man",
+    "transliteration": "Al-Insan",
+    "revelation_type": "Medinan",
+    "duration_seconds": 550
+  },
+  {
+    "id": 77,
+    "name_arabic": "المرسلات",
+    "name_english": "The Emissaries",
+    "transliteration": "Al-Mursalat",
+    "revelation_type": "Meccan",
+    "duration_seconds": 600
+  },
+  {
+    "id": 78,
+    "name_arabic": "النبأ",
+    "name_english": "The Announcement",
+    "transliteration": "An-Naba",
+    "revelation_type": "Meccan",
+    "duration_seconds": 520
+  },
+  {
+    "id": 79,
+    "name_arabic": "النازعات",
+    "name_english": "Those Who Drag Forth",
+    "transliteration": "An-Nazi'at",
+    "revelation_type": "Meccan",
+    "duration_seconds": 500
+  },
+  {
+    "id": 80,
+    "name_arabic": "عبس",
+    "name_english": "He Frowned",
+    "transliteration": "'Abasa",
+    "revelation_type": "Meccan",
+    "duration_seconds": 450
+  },
+  {
+    "id": 81,
+    "name_arabic": "التكوير",
+    "name_english": "The Overthrowing",
+    "transliteration": "At-Takwir",
+    "revelation_type": "Meccan",
+    "duration_seconds": 420
+  },
+  {
+    "id": 82,
+    "name_arabic": "الانفطار",
+    "name_english": "The Cleaving",
+    "transliteration": "Al-Infitar",
+    "revelation_type": "Meccan",
+    "duration_seconds": 400
+  },
+  {
+    "id": 83,
+    "name_arabic": "المطففين",
+    "name_english": "Defrauding",
+    "transliteration": "Al-Mutaffifin",
+    "revelation_type": "Meccan",
+    "duration_seconds": 450
+  },
+  {
+    "id": 84,
+    "name_arabic": "الانشقاق",
+    "name_english": "The Splitting Open",
+    "transliteration": "Al-Inshiqaq",
+    "revelation_type": "Meccan",
+    "duration_seconds": 380
+  },
+  {
+    "id": 85,
+    "name_arabic": "البروج",
+    "name_english": "The Mansions of the Stars",
+    "transliteration": "Al-Buruj",
+    "revelation_type": "Meccan",
+    "duration_seconds": 360
+  },
+  {
+    "id": 86,
+    "name_arabic": "الطارق",
+    "name_english": "The Nightcomer",
+    "transliteration": "At-Tariq",
+    "revelation_type": "Meccan",
+    "duration_seconds": 300
+  },
+  {
+    "id": 87,
+    "name_arabic": "الأعلى",
+    "name_english": "The Most High",
+    "transliteration": "Al-A'la",
+    "revelation_type": "Meccan",
+    "duration_seconds": 280
+  },
+  {
+    "id": 88,
+    "name_arabic": "الغاشية",
+    "name_english": "The Overwhelming",
+    "transliteration": "Al-Ghashiyah",
+    "revelation_type": "Meccan",
+    "duration_seconds": 290
+  },
+  {
+    "id": 89,
+    "name_arabic": "الفجر",
+    "name_english": "The Dawn",
+    "transliteration": "Al-Fajr",
+    "revelation_type": "Meccan",
+    "duration_seconds": 350
+  },
+  {
+    "id": 90,
+    "name_arabic": "البلد",
+    "name_english": "The City",
+    "transliteration": "Al-Balad",
+    "revelation_type": "Meccan",
+    "duration_seconds": 320
+  },
+  {
+    "id": 91,
+    "name_arabic": "الشمس",
+    "name_english": "The Sun",
+    "transliteration": "Ash-Shams",
+    "revelation_type": "Meccan",
+    "duration_seconds": 300
+  },
+  {
+    "id": 92,
+    "name_arabic": "الليل",
+    "name_english": "The Night",
+    "transliteration": "Al-Layl",
+    "revelation_type": "Meccan",
+    "duration_seconds": 320
+  },
+  {
+    "id": 93,
+    "name_arabic": "الضحى",
+    "name_english": "The Morning Hours",
+    "transliteration": "Ad-Duha",
+    "revelation_type": "Meccan",
+    "duration_seconds": 280
+  },
+  {
+    "id": 94,
+    "name_arabic": "الشرح",
+    "name_english": "The Relief",
+    "transliteration": "Ash-Sharh",
+    "revelation_type": "Meccan",
+    "duration_seconds": 250
+  },
+  {
+    "id": 95,
+    "name_arabic": "التين",
+    "name_english": "The Fig",
+    "transliteration": "At-Tin",
+    "revelation_type": "Meccan",
+    "duration_seconds": 240
+  },
+  {
+    "id": 96,
+    "name_arabic": "العلق",
+    "name_english": "The Clot",
+    "transliteration": "Al-Alaq",
+    "revelation_type": "Meccan",
+    "duration_seconds": 260
+  },
+  {
+    "id": 97,
+    "name_arabic": "القدر",
+    "name_english": "The Power",
+    "transliteration": "Al-Qadr",
+    "revelation_type": "Meccan",
+    "duration_seconds": 200
+  },
+  {
+    "id": 98,
+    "name_arabic": "البينة",
+    "name_english": "The Clear Proof",
+    "transliteration": "Al-Bayyinah",
+    "revelation_type": "Medinan",
+    "duration_seconds": 300
+  },
+  {
+    "id": 99,
+    "name_arabic": "الزلزلة",
+    "name_english": "The Earthquake",
+    "transliteration": "Az-Zalzalah",
+    "revelation_type": "Medinan",
+    "duration_seconds": 220
+  },
+  {
+    "id": 100,
+    "name_arabic": "العاديات",
+    "name_english": "The Chargers",
+    "transliteration": "Al-'Adiyat",
+    "revelation_type": "Meccan",
+    "duration_seconds": 240
+  },
+  {
+    "id": 101,
+    "name_arabic": "القارعة",
+    "name_english": "The Striking Hour",
+    "transliteration": "Al-Qari'ah",
+    "revelation_type": "Meccan",
+    "duration_seconds": 230
+  },
+  {
+    "id": 102,
+    "name_arabic": "التكاثر",
+    "name_english": "The Rivalry in World Increase",
+    "transliteration": "At-Takathur",
+    "revelation_type": "Meccan",
+    "duration_seconds": 210
+  },
+  {
+    "id": 103,
+    "name_arabic": "العصر",
+    "name_english": "The Declining Day",
+    "transliteration": "Al-'Asr",
+    "revelation_type": "Meccan",
+    "duration_seconds": 120
+  },
+  {
+    "id": 104,
+    "name_arabic": "الهمزة",
+    "name_english": "The Slanderer",
+    "transliteration": "Al-Humazah",
+    "revelation_type": "Meccan",
+    "duration_seconds": 180
+  },
+  {
+    "id": 105,
+    "name_arabic": "الفيل",
+    "name_english": "The Elephant",
+    "transliteration": "Al-Fil",
+    "revelation_type": "Meccan",
+    "duration_seconds": 150
+  },
+  {
+    "id": 106,
+    "name_arabic": "قريش",
+    "name_english": "Quraysh",
+    "transliteration": "Quraysh",
+    "revelation_type": "Meccan",
+    "duration_seconds": 130
+  },
+  {
+    "id": 107,
+    "name_arabic": "الماعون",
+    "name_english": "Small Kindnesses",
+    "transliteration": "Al-Ma'un",
+    "revelation_type": "Meccan",
+    "duration_seconds": 160
+  },
+  {
+    "id": 108,
+    "name_arabic": "الكوثر",
+    "name_english": "Abundance",
+    "transliteration": "Al-Kawthar",
+    "revelation_type": "Meccan",
+    "duration_seconds": 110
+  },
+  {
+    "id": 109,
+    "name_arabic": "الكافرون",
+    "name_english": "The Disbelievers",
+    "transliteration": "Al-Kafirun",
+    "revelation_type": "Meccan",
+    "duration_seconds": 140
+  },
+  {
+    "id": 110,
+    "name_arabic": "النصر",
+    "name_english": "Divine Support",
+    "transliteration": "An-Nasr",
+    "revelation_type": "Medinan",
+    "duration_seconds": 100
+  },
+  {
+    "id": 111,
+    "name_arabic": "المسد",
+    "name_english": "The Palm Fiber",
+    "transliteration": "Al-Masad",
+    "revelation_type": "Meccan",
+    "duration_seconds": 120
+  },
+  {
+    "id": 112,
+    "name_arabic": "الإخلاص",
+    "name_english": "Sincerity",
+    "transliteration": "Al-Ikhlas",
+    "revelation_type": "Meccan",
+    "duration_seconds": 100
+  },
+  {
+    "id": 113,
+    "name_arabic": "الفلق",
+    "name_english": "The Daybreak",
+    "transliteration": "Al-Falaq",
+    "revelation_type": "Meccan",
+    "duration_seconds": 110
+  },
+  {
+    "id": 114,
+    "name_arabic": "الناس",
+    "name_english": "Mankind",
+    "transliteration": "An-Nas",
+    "revelation_type": "Meccan",
+    "duration_seconds": 120
+  }
+]
